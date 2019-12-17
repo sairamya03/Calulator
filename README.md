@@ -1,3 +1,3 @@
 # Calulator
-This is a calcultor with 4 operations
+This is a calcultor interface with 4 operations
 Addition,Subtraction,division,Multiplication
